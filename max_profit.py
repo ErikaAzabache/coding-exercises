@@ -1,6 +1,6 @@
 def max_stock_profit(lst):
 	"""Function that returns max profit that can be made by selling high after buying low.
-	If rice doesn't change it returns 0. If price decreases, it returns the min loss
+	If price doesn't change it returns 0. If price decreases, it returns the min loss
 
 	>>> max_stock_profit([30, 50, 25, 35, 10, 15])
 	20
