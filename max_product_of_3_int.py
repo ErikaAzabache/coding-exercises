@@ -35,7 +35,7 @@ def max_product_of_3_int(lst):
 	# in the product of two numbers (lowest_prod_2) or a current number multiplied by the greatest positive product of two numbers (highest_prod_2). 
 	# The highest_prod_2 and lowest_prod_2 should be updated if a greater negative (lowest) and positive (highest) is found.
 
-	# Summing up, in each iteration we should kee track of:
+	# Summing up, in each iteration we should keep track of:
 	#		highest product of 3 numbers
 	#		highest product of 2 numbers
 	#		lowest product of 2 numbers
